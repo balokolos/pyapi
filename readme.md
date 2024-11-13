@@ -7,3 +7,5 @@ to run with flask:
 
 to run with gunicorn
 1. gunicorn --config gunicorn_config.py api:app
+
+docker had been push to dockerhub
