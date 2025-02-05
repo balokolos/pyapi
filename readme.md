@@ -12,3 +12,5 @@ docker had been push to dockerhub
 
 API sample for rds
 https://<URL>?country_id=NLD
+
+memcache.py use HR schema from oracle dev 23ai vm
