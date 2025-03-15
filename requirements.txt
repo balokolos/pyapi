@@ -3,3 +3,4 @@ Gunicorn
 flasgger
 cx_Oracle 
 pymemcache
+mysql-connector-python
